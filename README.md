@@ -1,4 +1,5 @@
 Quick start guide
+
 This tutorial covers some basic usage patterns and best practices to help you get started with Matplotlib.
 
 import matplotlib.pyplot as plt
